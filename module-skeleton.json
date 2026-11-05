@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-navigation-nuxt",
+  "capabilityKey": "planned:cms:navigation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-navigation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/navigation.md",
+  "presentationPlan": "projects/cms/nuxt/navigation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
